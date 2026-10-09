@@ -1,0 +1,6 @@
+{
+  "name": "TANAM BOSQUU",
+  "description": "Pantau Pertumbuhan, Rawat Kehidupan — Sistem monitoring dan pencatatan pertumbuhan bibit tanaman digital",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
